@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently managing the PSIRT & Bug Bounty teams.
 - 🌱 I’m currently learning all sorts of things...every day is a new adventure.
-- 💬 Ask me about PSIRT
+- 💬 Ask me about PSIRT & Bug Bounty
 - 😄 Pronouns: she/her
 - 👩🏼‍💻 Fun Fact: I used to do PSIRT at a large fruit company.
