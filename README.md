@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm @thejillboss
 
 
-- 🔭 I’m currently managing the PSIRT & Bug Bounty teams.
+- 🔭 I’m currently the Director of Product Security Engineering Response which houses the PSIRT & Bug Bounty teams.
 - 🌱 I’m currently learning all sorts of things...every day is a new adventure.
 - 💬 Ask me about planning your next vacation to Disney World.....or something security engineering related.
 - 😄 Pronouns: she/her
